@@ -1,4 +1,4 @@
 # demo
 This is my first git reposistory
 <br>
-Author - Dhruv Kashyap
+Author - Dhruv Kashyap aka (dktheprofessor)
